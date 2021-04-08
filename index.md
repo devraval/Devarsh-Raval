@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/66875776/114044770-1e1c3180-984d-11eb-8ced-7b5215a6a5f5.png)
+<img src="https://user-images.githubusercontent.com/66875776/114044770-1e1c3180-984d-11eb-8ced-7b5215a6a5f5.png" width="100" height="100">
 
 ## Background
 
