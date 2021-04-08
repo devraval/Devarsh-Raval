@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/66875776/114044770-1e1c3180-984d-11eb-8ced-7b5215a6a5f5.png)
+
 ## Background
 
 Howdy, my name is Devarsh Raval and welcome to my project portfolio. I am a Master's student pursuing Industrial Engineering with a data science specialization. In the past year I have been learning data science through personal projects using datasets that pique my interest such as financial, demographics and consumer data. 
