@@ -1,10 +1,8 @@
-## Devarsh Raval
+## Background
 
-You can use the [editor on GitHub](https://github.com/devraval/Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Howdy, my name is Devarsh Raval and welcome to my project portfolio. I am a Master's student pursuing Industrial Engineering with a data science specialization. In the past year I have been learning data science through personal projects using datasets that pique my interest such as financial, demographics and consumer data. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Contact
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
