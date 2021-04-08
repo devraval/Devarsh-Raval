@@ -6,15 +6,22 @@ Howdy, my name is Devarsh Raval and welcome to my project portfolio. I am a Mast
 
 ### Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+LinkedIn : https://www.linkedin.com/in/devarsh-raval-1b8961188/
+email : devarshraval@tamu.edu
+phone : +1 9794225339
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Projects
 
+## [Game Of Thrones Final Season Twitter Sentiment Analysis](https://github.com/devraval/GOT_S08_sentiments) 
+
+## [IPL data analysis in SQL](https://github.com/devraval/ipl-data-analysis)
+
+## [Predicting financial recessions based on macroeconomic indicators](https://github.com/devraval/Predicting-financial-recessions-based-on-macroeconomic-indicators)
+
+## [Telecom Customer churn prediction](https://github.com/devraval/Telecom-Customer-churn-prediction)
+
+## [Investment portfolio analysis and optimization](https://github.com/devraval/Portfolio_Analysis_Optimization)
 - Bulleted
 - List
 
