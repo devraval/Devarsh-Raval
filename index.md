@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/66875776/114044770-1e1c3180-984d-11eb-8ced-7b5215a6a5f5.png" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/66875776/114044770-1e1c3180-984d-11eb-8ced-7b5215a6a5f5.png" width="145" height="150">
+
 # Devarsh Raval
 
 ### Contact
@@ -26,7 +27,7 @@ Key insights sought during analysis such as
 2)Common attributes of top run scorers such as age, batting style, experience :
 (a) Top run scorers are 5 years older on average. (b) 40 % more likely to be left handed batsman than on average. (c) Has played 20-25 more matches than the average player.
 3)Most valuable batsmen based on correlation of their runs and team victory.
-<img src="https://user-images.githubusercontent.com/66875776/114050096-984eb500-9851-11eb-9be7-86edd4f83390.png" width="500" height="495">
+<img src="https://user-images.githubusercontent.com/66875776/114050096-984eb500-9851-11eb-9be7-86edd4f83390.png" width="500" height="490">
 4)Toss decision to win match, based on venues.
 
 ## [Predicting financial recessions based on macroeconomic indicators](https://github.com/devraval/Predicting-financial-recessions-based-on-macroeconomic-indicators)
