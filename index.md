@@ -2,6 +2,8 @@
 
 # Devarsh Raval
 
+Howdy, my name is Devarsh Raval and welcome to my project portfolio. I am a Master's student pursuing Industrial Engineering with a data science specialization. In the past year I have been learning data science through personal projects using datasets that pique my interest such as financial, demographics and consumer data. 
+
 ### Contact
 
 LinkedIn : https://www.linkedin.com/in/devarsh-raval-1b8961188/
@@ -9,11 +11,6 @@ LinkedIn : https://www.linkedin.com/in/devarsh-raval-1b8961188/
 email : devarshraval@tamu.edu
 
 phone : +1 9794225339
-
-## Background
-
-Howdy, my name is Devarsh Raval and welcome to my project portfolio. I am a Master's student pursuing Industrial Engineering with a data science specialization. In the past year I have been learning data science through personal projects using datasets that pique my interest such as financial, demographics and consumer data. 
-
 
 # Projects
 
@@ -45,7 +42,7 @@ For the macroeconomic indicator data, the most used website is The World Bank's 
 Stock market data is collected from yahoo finance and quandl.com as FRED api function in this notebook collects default option of daily stock market data.
 Time frame is selected from 1996 to Aug 2020 according to available data. Consistent with the previous works in the literature, we use business cycle dating chronology provided by NBER which involves dates when recession began and ended in US economy. According to NBER's statistics we have 8 recession periods in our dataset where duration is changing from 6 to 18 months. We represent regimes as "Normal" and "Recession" in our dataset. 
 
-<img src="https://user-images.githubusercontent.com/66875776/114125930-041a3780-98bd-11eb-93a9-6e45d3b26637.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/66875776/114125930-041a3780-98bd-11eb-93a9-6e45d3b26637.png" width="700" height="300">
 
 Thus, the blue line graph past 2014 is the predicted probabilities of our model. One can see it does not predict recession for continuous two months until 2020 when the actual recession started. Limitation of this model is the period range of data selected is shorter. Thus, with more sophistication this model can be used to predict market recession in one month prior.
 
@@ -60,6 +57,7 @@ Several Machine Learning models were applied and one neural network model using 
 Classification table and ROC AUC plot
 
 <img src="https://user-images.githubusercontent.com/66875776/113955831-14111900-97e2-11eb-8c4f-91719fdae5a4.png" width="400" height="375">
+
 #### Neural Network
 A 64-8-1 dense layered model with a decaying learning rate of batch size 32 is used.
 
@@ -72,23 +70,14 @@ Feature importance in the NN model
 
 
 ## [Investment portfolio analysis and optimization](https://github.com/devraval/Portfolio_Analysis_Optimization)
-- Bulleted
-- List
 
-1. Numbered
-2. List
+This is a portfolio analysis and comparison of Vanguard MidCap ETF(IVOO) to the index it tracks, S&P 400 MidCap (MID). The main contents are:
 
-**Bold** and _Italic_ and `Code` text
+Factor analysis of MID and IVOO, namely for market beta, Value and Size.
 
-[Link](url) and ![Image](src)
-```
+Comparison of weighting techniques such as Global minimum variance (using different covariance estimation methods), equally weighted, and the Cap-weighted index that is listed on the market.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Style Analysis of Vanguard ETF using the 12 industry portfolio from FamaFrench website and in comparison to the entire index.
 
-### Jekyll Themes
+Comparison of performance of Vanguard ETF returns to various equity-bond portfolios.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devraval/Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
