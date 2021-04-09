@@ -18,16 +18,25 @@ Howdy, my name is Devarsh Raval and welcome to my project portfolio. I am a Mast
 # Projects
 
 ## [Game Of Thrones Final Season Twitter Sentiment Analysis](https://github.com/devraval/GOT_S08_sentiments) 
+
 The objective is to predict how a tweet would rate the tv series on scale of 10 compared to reviews on IMDb. For this, a custom model is to be built trained on the IMDb reviews and a pre-trained model vader sentiment also is to be used. It is an ongoing project. 
 
 ## [IPL data analysis in SQL](https://github.com/devraval/ipl-data-analysis)
+
 The analysis was done using Postgresql database management system.
+
 Key insights sought during analysis such as 
+
 1)Team with most wins over entire time frame and per season
+
 2)Common attributes of top run scorers such as age, batting style, experience :
+
 (a) Top run scorers are 5 years older on average. (b) 40 % more likely to be left handed batsman than on average. (c) Has played 20-25 more matches than the average player.
+
 3)Most valuable batsmen based on correlation of their runs and team victory.
+
 <img src="https://user-images.githubusercontent.com/66875776/114050096-984eb500-9851-11eb-9be7-86edd4f83390.png" width="400" height="375">
+
 4)Toss decision to win match, based on venues.
 
 ## [Predicting financial recessions based on macroeconomic indicators](https://github.com/devraval/Predicting-financial-recessions-based-on-macroeconomic-indicators)
@@ -42,6 +51,7 @@ Thus, the blue line graph past 2014 is the predicted probabilities of our model.
 
 
 ## [Telecom Customer churn prediction](https://github.com/devraval/Telecom-Customer-churn-prediction)
+
 Customer churn is a critical metric because it is much more cost effective to retain existing customers than it is to acquire new customers as it saves cost of sales and marketing.In this dataset, it is defined as a binary variable for each customer and calculating the rate is not the objective. The concept of the churn rate indicates there are factors which influence it and thus the objective here is to identify and quantify those factors.
 
 Several Machine Learning models were applied and one neural network model using Keras was applied.
