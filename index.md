@@ -6,11 +6,11 @@ Howdy, my name is Devarsh Raval and welcome to my project portfolio. I am a Mast
 
 ### Contact
 
-LinkedIn : https://www.linkedin.com/in/devarsh-raval-1b8961188/
-
 email : devarshraval@tamu.edu
 
 phone : +1 9794225339
+
+LinkedIn : https://www.linkedin.com/in/devarsh-raval-1b8961188/
 
 # Projects
 
@@ -48,6 +48,8 @@ Thus, the blue line graph past 2014 is the predicted probabilities of our model.
 
 
 ## [Telecom Customer churn prediction](https://github.com/devraval/Telecom-Customer-churn-prediction)
+
+[Here is the my Medium blog on this topic](https://towardsdatascience.com/churn-prediction-using-neural-networks-and-ml-models-c817aadb7057?sk=98775e380221d4f8c8853741814977ae)
 
 Customer churn is a critical metric because it is much more cost effective to retain existing customers than it is to acquire new customers as it saves cost of sales and marketing.In this dataset, it is defined as a binary variable for each customer and calculating the rate is not the objective. The concept of the churn rate indicates there are factors which influence it and thus the objective here is to identify and quantify those factors.
 
