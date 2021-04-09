@@ -35,7 +35,7 @@ Key insights sought during analysis such as
 
 3)Most valuable batsmen based on correlation of their runs and team victory.
 
-<img src="https://user-images.githubusercontent.com/66875776/114050096-984eb500-9851-11eb-9be7-86edd4f83390.png" width="400" height="375">
+<img src="https://user-images.githubusercontent.com/66875776/114050096-984eb500-9851-11eb-9be7-86edd4f83390.png" width="400" height="350">
 
 4)Toss decision to win match, based on venues.
 
@@ -45,7 +45,7 @@ For the macroeconomic indicator data, the most used website is The World Bank's 
 Stock market data is collected from yahoo finance and quandl.com as FRED api function in this notebook collects default option of daily stock market data.
 Time frame is selected from 1996 to Aug 2020 according to available data. Consistent with the previous works in the literature, we use business cycle dating chronology provided by NBER which involves dates when recession began and ended in US economy. According to NBER's statistics we have 8 recession periods in our dataset where duration is changing from 6 to 18 months. We represent regimes as "Normal" and "Recession" in our dataset. 
 
-<img src="https://user-images.githubusercontent.com/66875776/114125930-041a3780-98bd-11eb-93a9-6e45d3b26637.png" width="400" height="375">
+<img src="https://user-images.githubusercontent.com/66875776/114125930-041a3780-98bd-11eb-93a9-6e45d3b26637.png" width="500" height="375">
 
 Thus, the blue line graph past 2014 is the predicted probabilities of our model. One can see it does not predict recession for continuous two months until 2020 when the actual recession started. Limitation of this model is the period range of data selected is shorter. Thus, with more sophistication this model can be used to predict market recession in one month prior.
 
@@ -63,8 +63,8 @@ Classification table and ROC AUC plot
 #### Neural Network
 A 64-8-1 dense layered model with a decaying learning rate of batch size 32 is used.
 
-<img src="https://user-images.githubusercontent.com/66875776/113955096-b8925b80-97e0-11eb-9c11-bbb8c963be0c.png" width="400" height="375">
-<img src="https://user-images.githubusercontent.com/66875776/113956004-6d794800-97e2-11eb-9b90-09d02c1e9d09.png" width="400" height="375">
+<img src="https://user-images.githubusercontent.com/66875776/113955096-b8925b80-97e0-11eb-9c11-bbb8c963be0c.png" width="400" height="350">
+<img src="https://user-images.githubusercontent.com/66875776/113956004-6d794800-97e2-11eb-9b90-09d02c1e9d09.png" width="400" height="350">
 
 Feature importance in the NN model
 
